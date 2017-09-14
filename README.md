@@ -1,6 +1,6 @@
 # funneler_py
 A python script that recursively generates a BigQuery-dialect SQL query to build a funnel against Google Analytics page-hit data
-
+fwef
 To use:
 
 1. Create an input file called 'input.json' - it should contain one json that looks like this:
@@ -21,3 +21,4 @@ To use:
 }
 
 2. run 'python funneler.py input.json'
+Learning to use git and funneler_py at the same time. Report forked from douug
