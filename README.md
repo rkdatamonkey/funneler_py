@@ -21,4 +21,4 @@ To use:
 }
 
 2. run 'python funneler.py input.json'
-Learning to use git and funneler_py at the same time. Report forked from douug
+Learning to use git and funneler_py at the same time. Repo forked from douug
